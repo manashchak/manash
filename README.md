@@ -1,8 +1,5 @@
 # Manash Chakraborty, Ph.D.
 **Software Engineer · KLA Corporation**  
-📍 415 E. Taylor Street, Apt. #3118, San Jose, CA, 95112  
-📞 (+1) 612-961-0716  
-📧 mcb.me72@gmail.com 
 
 ---
 
