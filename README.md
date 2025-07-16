@@ -89,8 +89,7 @@
   *IFAC World Congress, 2023, Yokohama, Japan*
 
 - **Controller Design and Analysis of Dual-stage Hard Disk Drives in the Presence of Micro-Actuator Stroke Limitation**  
-  *Ph.D. Thesis, University of Minnesota, 2022*  
-  Link
+  *Ph.D. Thesis, University of Minnesota, 2022*
 
 - **Disturbance Modeling and Prediction of Closed-Loop Micro-Actuator Stroke Usage in Dual-Stage Hard Disk Drives**  
   *ASME Letters in DSC, 2022*  
