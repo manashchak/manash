@@ -106,13 +106,10 @@
 ## 🎓 Education
 ### **University of Minnesota, Twin Cities** - *MN, USA*
 **Ph.D, Aerospace Engineering and Mechanics**  
-*2017 – 2022*  
-#- Controls and Systems
 
 ### **Chittagong University of Engineering and Technology** — *Chittagong, Bangladesh*  
 **Bachelor of Science (B.Sc.), Mechanical Engineering**  
 *2011 – 2015*  
-#- CGPA: 3.53 / 4.00
 
 ---
 
