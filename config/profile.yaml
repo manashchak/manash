@@ -1,0 +1,181 @@
+# =====================================================
+# Data displayed on the Home (About Me) page.
+# =====================================================
+
+# =====================================================
+# Personal Information
+# =====================================================
+
+profile:
+  name: "Manash Chakraborty, Ph.D."
+  headline: "Software Engineer · KLA Corporation"
+  email: "PLACEHOLDER_EMAIL"
+  location: "Milpitas, California"
+  profileImage: "/images/mcb_cropped.jpg"
+
+  links:
+    - name: "Github"
+      url: "https://github.com/manashchak"
+      icon:
+        name: "FaGithub"
+        package: "react-icons/fa6"
+
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/PLACEHOLDER_LINKEDIN"
+      icon:
+        name: "FaLinkedin"
+        package: "react-icons/fa6"
+
+    - name: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=PLACEHOLDER_SCHOLAR_ID"
+      icon:
+        name: "FaGoogleScholar"
+        package: "react-icons/fa6"
+
+  biography: |
+    Hi! I'm <strong>Manash Chakraborty</strong>, a <em>Software Engineer</em> at <em>KLA Corporation</em> in Milpitas, California. I develop software tools for semiconductor inspection and metrology devices, working at the intersection of precision engineering and software systems.
+    <div class="my-2"></div>
+    I hold a <em>Ph.D. in Aerospace Engineering and Mechanics</em> from the <em>University of Minnesota</em>, where my research focused on robust and optimal controller synthesis for dual-stage hard disk drives. I have 4+ years of experience in robust/optimal controller synthesis for dynamical systems, 3+ years in precision servo controls, and developed a MATLAB toolbox for nonlinear analysis of dynamical systems.
+    <div class="my-2"></div>
+    Prior to my current role, I worked on industrial automation, machine vision, and robotics at <em>Unipolar Automation</em> in Bangladesh, and completed two internships at <em>Seagate Technology</em> focusing on HDD controller design and disturbance modeling.
+
+# =====================================================
+# Education Section
+# =====================================================
+
+education:
+  - degree: "Ph.D., Aerospace Engineering and Mechanics"
+    school: "University of Minnesota, Twin Cities"
+    years: "2017 - 2022"
+    logo: null
+
+  - degree: "B.Sc., Mechanical Engineering"
+    school: "Chittagong University of Engineering and Technology"
+    years: "2011 - 2015"
+    logo: null
+
+# =====================================================
+# Work Experience Section
+# =====================================================
+
+workExperience:
+  - title: "Software Engineer"
+    company: "KLA Corporation"
+    years: "Dec 2022 - Present"
+    logo: null
+
+  - title: "Intern"
+    company: "Seagate Technology U.S."
+    years: "May 2021 - Aug 2021"
+    logo: null
+
+  - title: "Intern"
+    company: "Seagate Technology U.S."
+    years: "May 2020 - Aug 2020"
+    logo: null
+
+  - title: "Teaching Assistant"
+    company: "University of Minnesota"
+    years: "Aug 2017 - Dec 2018"
+    logo: null
+
+  - title: "Project Manager (R&D)"
+    company: "Unipolar Automation Ltd."
+    years: "Feb 2016 - June 2017"
+    logo: null
+
+# =====================================================
+# Presentations / Talks Section
+# =====================================================
+
+talks: []
+
+# =====================================================
+# Professional Services
+# =====================================================
+
+services: []
+
+# =====================================================
+# Skills Section
+# =====================================================
+
+skills:
+  Programming Languages:
+    - name: "C/C++"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"
+      proficiency: "Experienced"
+      description: null
+
+    - name: "Python"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+      proficiency: "Experienced"
+      description: null
+
+    - name: "FORTRAN"
+      logo: null
+      proficiency: "Familiar"
+      description: null
+
+    - name: "LabVIEW"
+      logo: null
+      proficiency: "Experienced"
+      description: null
+
+  Software Tools:
+    - name: "MATLAB"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
+      proficiency: "Expert"
+      description: "Extensive use for controls research, simulation, and toolbox development."
+
+    - name: "Simulink"
+      logo: null
+      proficiency: "Experienced"
+      description: null
+
+    - name: "SolidWorks"
+      logo: null
+      proficiency: "Familiar"
+      description: null
+
+    - name: "Git"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"
+      proficiency: "Experienced"
+      description: null
+
+  Embedded Platforms:
+    - name: "Arduino"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"
+      proficiency: "Experienced"
+      description: null
+
+    - name: "Raspberry Pi"
+      logo: null
+      proficiency: "Familiar"
+      description: null
+
+    - name: "PIC & ATMEL Microcontrollers"
+      logo: null
+      proficiency: "Experienced"
+      description: null
+
+  Semidefinite Programming:
+    - name: "YALMIP"
+      logo: null
+      proficiency: "Advanced"
+      description: "SDP parser for LMI-based controller synthesis."
+
+    - name: "CVX"
+      logo: null
+      proficiency: "Advanced"
+      description: "Convex optimization modeling framework."
+
+    - name: "Mosek"
+      logo: null
+      proficiency: "Advanced"
+      description: "SDP solver for robust control problems."
+
+    - name: "SeDuMi / SDPT3"
+      logo: null
+      proficiency: "Familiar"
+      description: "Alternative SDP solvers."

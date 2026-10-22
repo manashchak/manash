@@ -1,0 +1,10 @@
+# =====================================================
+# Project data displayed on the Projects page.
+# =====================================================
+
+projects:
+  items:
+    - id: "manash"
+      displayName: "Personal Website"
+      previewImage: null
+      featured: true

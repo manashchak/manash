@@ -1,0 +1,12 @@
+{
+    "template": {
+        "path": "public/articles/template/template.md",
+        "title": "Untitled",
+        "created_at": "2026-10-22T23:46:38.733Z",
+        "summary": "",
+        "draft": false,
+        "tags": [],
+        "updated_at": "2026-10-22T23:46:38.733Z",
+        "hash": "207f4b039c15d1fbfdeac47bbe3084e5b9dad2a932f7ec97598718657f815451"
+    }
+}

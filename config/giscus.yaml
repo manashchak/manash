@@ -1,0 +1,10 @@
+# =====================================================
+# Giscus Configuration (comments on article pages)
+# Visit https://giscus.app to generate your values.
+# =====================================================
+
+giscus:
+  repo: "manashchak/manash"
+  repoId: "PLACEHOLDER"
+  category: "General"
+  categoryId: "PLACEHOLDER"

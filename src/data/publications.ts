@@ -1,0 +1,55 @@
+import type { PublicationsType } from "@/types/publications";
+
+export const publications: PublicationsType = {
+  authorName: `Manash Chakraborty`,
+  items: [
+    {
+      title: `Robust Mixed H2/H-infinity Control Synthesis for Dual-Stage Hard Disk Drives Using Convex Optimization`,
+      authors: `Manash Chakraborty, Ryan J. Caverly`,
+      year: 2023,
+      venue: `IFAC World Congress 2023, Yokohama, Japan`,
+      link: null,
+      featured: true
+    },
+    {
+      title: `Controller Design and Analysis of Dual-stage Hard Disk Drives in the Presence of Micro-Actuator Stroke Limitation`,
+      authors: `Manash Chakraborty`,
+      year: 2022,
+      venue: `Ph.D. Thesis, University of Minnesota`,
+      link: null,
+      featured: true
+    },
+    {
+      title: `Disturbance Modeling and Prediction of Closed-Loop Micro-Actuator Stroke Usage in Dual-Stage Hard Disk Drives`,
+      authors: `Manash Chakraborty, Ryan J. Caverly`,
+      year: 2022,
+      venue: `ASME Letters in Dynamic Systems and Control`,
+      link: `https://doi.org/10.1115/1.4056025`,
+      featured: true
+    },
+    {
+      title: `H-infinity Optimal Controller Design for Dual-Stage Hard Disk Drives`,
+      authors: `Manash Chakraborty, Ryan J. Caverly`,
+      year: 2019,
+      venue: `58th IEEE Conference on Decision and Control (CDC)`,
+      link: `https://doi.org/10.1109/CDC40024.2019.902323`,
+      featured: true
+    },
+    {
+      title: `Azimuth-Altitude Dual Axis Solar Tracker`,
+      authors: `Manash Chakraborty, Sheikh Muhammad Humayun Kabir`,
+      year: 2015,
+      venue: `2nd International Conference on Mechanical Engineering and Renewable Energy (ICMERE), Bangladesh`,
+      link: `https://doi.org/10.13140/RG.2.1.2255.8807`,
+      featured: false
+    },
+    {
+      title: `Design and Implementation of a Solar Tracker`,
+      authors: `Manash Chakraborty, Sheikh Muhammad Humayun Kabir`,
+      year: 2014,
+      venue: `International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)`,
+      link: `https://doi.org/10.1109/ICEEICT.2014.6919054`,
+      featured: false
+    }
+  ]
+};

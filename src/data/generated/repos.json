@@ -1,0 +1,17 @@
+{
+  "manash": {
+    "name": "manash",
+    "description": "Personal website of Manash Chakraborty, Ph.D.",
+    "stargazers_count": 0,
+    "topics": ["personal-website", "react", "showlit"],
+    "language": "TypeScript",
+    "homepage": "https://manashchak.github.io/manash/",
+    "html_url": "https://github.com/manashchak/manash",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2026-10-22T00:00:00Z",
+    "pushed_at": "2026-10-22T00:00:00Z",
+    "displayName": "Personal Website",
+    "previewImage": null,
+    "featured": true
+  }
+}
