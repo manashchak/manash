@@ -2,7 +2,7 @@ import { LuUser, LuWrench, LuLibraryBig, LuNewspaper } from "react-icons/lu";
 
 export const sidebar = {
   userName: `Manash Chakraborty`,
-  profileImage: `/manash/images/mcb_cropped.jpg`,
+  profileImage: `/manash/images/mcb_cyberpunk.jpg`,
   sections: [
     {
       title: `About Me`,

@@ -1,4 +1,4 @@
-import { FaGithub, FaLinkedin, FaGoogleScholar } from "react-icons/fa6";
+import { FaGithub, FaLinkedin } from "react-icons/fa6";
 
 export const profile = {
   name: `Manash Chakraborty, Ph.D.`,
@@ -14,13 +14,8 @@ export const profile = {
     },
     {
       name: `LinkedIn`,
-      url: `https://www.linkedin.com/in/PLACEHOLDER_LINKEDIN`,
+      url: `https://www.linkedin.com/in/manashchak`,
       icon: FaLinkedin
-    },
-    {
-      name: `Google Scholar`,
-      url: `https://scholar.google.com/citations?user=PLACEHOLDER_SCHOLAR_ID`,
-      icon: FaGoogleScholar
     }
   ],
   biography: `Hi! I'm <strong>Manash Chakraborty</strong>, a <em>Software Engineer</em> at <em>KLA Corporation</em> in Milpitas, California. I develop software tools for semiconductor inspection and metrology devices, working at the intersection of precision engineering and software systems.
